@@ -1,0 +1,125 @@
+#nb {
+  
+ border-radius: ;
+    
+        border: 10px solid black;
+        margin: 20px;
+      }
+
+    .menu {
+ 
+        text-decoration-style: dotted;
+       
+       
+     
+        padding-right: 10px;
+        
+
+        
+        box-shadow: black;
+        
+        border-radius: 30px;
+}
+.body background{
+  width: max-content;
+}
+#curpro{
+  font-size: 70px;
+  padding-top: 10px;
+  color: rgb(11, 83, 11);
+  
+}
+.infos{
+  font-size: 70px;
+  color: rgb(11, 83, 11);
+}
+.contact{
+  font-size: 70px;
+  color: rgb(11, 83, 11);
+}
+  .gif{
+position: relative;
+right: 70px;
+  }
+  .texte {
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'vtf_gulaxregular', sans-serif;
+    line-height: 1.5;
+    background-color: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    transition: .3s ease;
+    grid-area: 1/1/-1/-1;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .textehover {
+    font-family: 'Dosis';
+    font-size: 25px;}
+    .mask {
+      grid-column: 1/3;
+  }
+  
+  .bram {
+      grid-column: 3/-1;
+  }
+  
+  .typecooker {
+      grid-column: 2/4;
+  }
+  
+  .francis {
+      grid-column: 1/2;
+  }
+  
+  .tomica {
+      grid-column: 4/-1;
+  }
+  
+  .kendo {
+      grid-column: 1/-1;
+  }
+  
+  .casoar {
+      grid-column: 3/-1;
+  }
+  
+  .princesse {
+      grid-column: 1/3;
+  }
+  
+  .festoche{
+      grid-column: 1/3;
+  }
+  
+  .IRMA3000{
+      grid-column: 3/-1;
+  }
+  
+  .sta {
+      grid-column: 1/3;
+  }
+  
+  .dip {
+      grid-column: 3/-1;
+  }
+  .int {
+    font-weight: 300;
+}
+
+.exp{
+    font-weight: 300;
+}
+
+ul {
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+li {
+    line-height: 1.5;
+    list-style-type: none;
+}
